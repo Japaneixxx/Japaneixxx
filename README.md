@@ -34,6 +34,6 @@
   <a href="https://steamcommunity.com/id/Japaneixxx/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/japaneixxx/japaneixxx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Japaneixxx/Japaneixxx/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
