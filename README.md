@@ -1,6 +1,6 @@
 ### Eai Japa aqui!
 
-- 🌱 Atualmente estou aprendendo: JS e Python
+- 🌱 Atualmente estou aprendendo: Java
 - 😄 Pronouns: Ele/Dele
  
  ##
